@@ -21,7 +21,7 @@
   
       document.getElementById(
         "website-duration"
-      ).innerHTML = `本站已在生活的夹缝中生存 ${days} 天 ${hours} 小时 ${minutes} 分 ${seconds} 秒`;
+      ).innerHTML = `本站已艰难存活 ${days} 天 ${hours} 小时 ${minutes} 分 ${seconds} 秒`;
     }
   
     update();

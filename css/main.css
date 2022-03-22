@@ -360,7 +360,7 @@ img[lazyload] {
 }
 :root {
   --color-mode: 'light';
-  --body-bg-color: #eee;
+  --body-bg-color: #d3e6c6;
   --board-bg-color: #fff;
   --text-color: #3c4858;
   --sec-text-color: #718096;
@@ -379,7 +379,7 @@ img[lazyload] {
     --color-mode: 'dark';
   }
   :root:not([data-user-color-scheme]) {
-    --body-bg-color: #181c27;
+    --body-bg-color: #483D8B;
     --board-bg-color: #252d38;
     --text-color: #c4c6c9;
     --sec-text-color: #a7a9ad;
@@ -468,7 +468,7 @@ img[lazyload] {
   }
 }
 [data-user-color-scheme='dark'] {
-  --body-bg-color: #181c27;
+  --body-bg-color: #483D8B;
   --board-bg-color: #252d38;
   --text-color: #c4c6c9;
   --sec-text-color: #a7a9ad;
